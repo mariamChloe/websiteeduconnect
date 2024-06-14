@@ -12,7 +12,6 @@
 $footer_copyright_text = get_theme_mod('appilo_footer_copyright_settings');
 
 $copyright_menus = get_theme_mod( 'footer_copyright_menu' );
-
 $copyright_all_text = get_theme_mod('appilo_copyright_all_text_settings');
 
 $footer_subscirbe_form_title = get_theme_mod('appilo_footer_subscribe_title_settings');
@@ -70,7 +69,7 @@ $allowed_html = [
                     <?php if (!empty($footer_copyright_text)):?>
                         <?php echo __( $footer_copyright_text, 'appilo' ); ?>
                     <?php else:?>
-                        © 2023, Edu-Connect by TechLadies
+                        © 2024, Edu-Connect by Edu-Connect
                     <?php endif;?>
                     <?php if ($copyright_menus):?>
                         <?php foreach( $copyright_menus as $copyright_menu ) : ?>

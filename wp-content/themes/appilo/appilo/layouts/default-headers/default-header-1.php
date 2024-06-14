@@ -39,7 +39,7 @@
 <header class="header home-page-one">
     <div class="container">
         <div class="appilo-menu clearfix">
-            <nav class="navbar navbar-expand-lg navbar-custom navbar-light">
+            <nav class="navbar navbar-expand-lg navbar-custom navbar-light w-100">
 
                 <a class="navbar-brand mr-auto" href="<?php echo esc_url(home_url('/')); ?>">
 					<?php if ($main_logo != 'http://url' && $main_logo != 'url' && $main_logo != '') { ?>
