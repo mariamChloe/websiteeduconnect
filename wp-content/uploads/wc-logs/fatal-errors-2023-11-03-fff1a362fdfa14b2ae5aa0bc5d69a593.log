@@ -1,0 +1,4 @@
+2023-11-03T11:07:07+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\wamp64\www\edu-connect\wp-content\plugins\elementor\includes\controls\number.php à la ligne 6
+
+2023-11-03T23:00:38+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\wamp64\www\edu-connect\wp-content\plugins\appilo-core\inc\elements\widgets\crypto\crypto-app-download.php à la ligne 5
+

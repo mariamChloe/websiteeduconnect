@@ -1,0 +1,89 @@
+
+---Downloaded files---
+The import files for: Appilo App Landing were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://educonnect.technology.dirkk.tech/
+Data file = C:\wamp64\www\edu-connect/wp-content/uploads/2023/10/demo-content-import-file_2023-10-15__23-10-51.xml
+Widget file = C:\wamp64\www\edu-connect/wp-content/uploads/2023/10/demo-widgets-import-file_2023-10-15__23-10-51.json
+Customizer file = C:\wamp64\www\edu-connect/wp-content/uploads/2023/10/demo-customizer-import-file_2023-10-15__23-10-51.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Default Sidebar : 
+
+Bloc - No Title - Widget already exists
+Bloc - No Title - Imported
+Bloc - No Title - Imported
+Rechercher - No Title - Imported
+Articles récents - No Title - Imported
+Commentaires récents - No Title - Imported
+
+Default Left Sidebar : 
+
+Bloc - No Title - Widget already exists
+Bloc - No Title - Imported
+Archives - No Title - Imported
+Catégories - No Title - Imported
+Méta - No Title - Imported
+
+Topapp Blog Sidebar : 
+
+Rechercher - No Title - Imported
+Catégories - Category - Imported
+Nuage d’étiquettes - Tags - Imported
+Texte - Subscribe - Imported
+Galerie - Gallery - Imported
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not suitable for current theme. You can only import customizer settings for the same theme or a child theme.
+
+---ocdi/after_import---
+
