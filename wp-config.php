@@ -1,6 +1,6 @@
 <?php
 /**
- * La configuration de base de votre installation WordPress.
+ * La configuration base de votre installation WordPress.
  *
  * Ce fichier contient les réglages de configuration suivants : réglages MySQL,
  * préfixe de table, clés secrètes, langue utilisée, et ABSPATH.
@@ -27,10 +27,10 @@ define( 'DB_NAME', 'edu-connect' );
 define( 'DB_USER', 'root' );
 
 /** Mot de passe de la base de données MySQL. */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', 'Spwu7OTn9hG3UjzvRADDHj+AtlEmaUVdQCJR' );
 
 /** Adresse de l’hébergement MySQL. */
-define( 'DB_HOST', 'localhost' );
+define( 'DB_HOST', 'srv-captain--databaselbb-db' );
 
 /** Jeu de caractères à utiliser par la base de données lors de la création des tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
